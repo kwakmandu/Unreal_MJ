@@ -73,3 +73,21 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+## MJ CUSTOM
+**/Saved/*
+**/Intermediate/*
+**/Binaries/*
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+
+
+
+
+
